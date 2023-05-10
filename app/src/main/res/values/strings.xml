@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">UTS_BotNav&amp;RecView</string>
+    <string name="char_name">Nama Karakter</string>
+    <string name="char_desc">Deskripsi Karakter</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    //nama char
+    <string name="albedo">Albedo</string>
+    <string name="barbara">Barbara</string>
+    <string name="bennet">Bennet</string>
+    <string name="chongyun">Chongyun</string>
+    <string name="collei">Collei</string>
+    <string name="diluc">Diluc</string>
+    <string name="hu_tao">Hu Tao</string>
+    <string name="kazuha">Kaedehara Kazuha</string>
+    <string name="qiqi">Qiqi</string>
+    <string name="xiao">Xiao</string>
+    //desc char
+    <string name="desc_albedo">Albedo is a playable Geo character in Genshin Impact. A synthetic human made by the alchemist Rhinedottir the mysterious Albedo is the Chief Alchemist and Captain of the Investigation Team of the Knights of Favonius.</string>
+    <string name="desc_barbara">Barbara Pegg is a playable Hydro character in Genshin Impact.She is the deaconess of the Church of Favonius and a prominent idol after learning about them from the intrepid adventurer Alice.She is also the younger sister of the Acting Grand Master Jean"</string>
+    <string name="desc_bennet">Bennett is a playable Pyro character in Genshin Impact.An orphan discovered by an elderly adventurer as a baby, Bennett was raised in Mondstadts Adventurers Guild. He is the one and only member of "Benny's Adventure Team, as everyone else left the team after experiencing the constant misfortune that follows him</string>
+    <string name="desc_chongyun">Chongyun (Chinese: 重云 Chóngyún) is a playable Cryo character in Genshin Impact.Born with an excess of yang (positive) energy, Chongyun has become a highly effective exorcist in Liyue — so effective to the point where he hasnt seen a spirit himself, as they immediately flee when he approaches. The excessive yang energy also makes him particularly susceptible to heat and strong emotion, which has led to some rather unexpected results.</string>
+    <string name="desc_collei">Collei is a playable Dendro character in Genshin Impact.She has appeared in the official Manga and serves as one of its main characters. Originally a victim of Fatui human experimentation, Collei wandered the world as a vagrant until she met Amber in Mondstadt. Since then, Collei has turned her life around, and currently serves as a trainee Forest Ranger in the Avidya Forest.</string>
+    <string name="desc_diluc">Diluc Ragnvindr is a playable Pyro character in Genshin Impact.Born into the affluent Ragnvindr Clan, Diluc is the current owner of the Dawn Winery and a nobleman of high esteem in Mondstadt. While a past incident caused him to split ways with the Knights of Favonius, he continues to protect Mondstadt in his own way.</string>
+    <string name="desc_hu_tao">Hu Tao (Chinese: 胡桃 Hú Táo) is a playable Pyro character in Genshin Impact.Hu Taos antics and eccentricity belies her role as the 77th Director of the Wangsheng Funeral Parlor and her talent as a poet. Nevertheless, she treats the parlors operations with utmost importance, and holds funeral ceremonies with the highest dignity and solemnity.</string>
+    <string name="desc_kazuha">Kaedehara Kazuha (Japanese: 楓かえで原はら万かず葉は Kaedehara Kazuha) is a playable Anemo character in Genshin Impact.A wandering samurai of the once-famed Kaedehara Clan with an ability to read the sounds of nature, Kazuha is a temporary crewmember of The Crux. Despite being burdened by the many happenings of his past, Kazuha still maintains an easygoing disposition.</string>
+    <string name="desc_qiqi">Qiqi (Chinese: 七七 Qīqī) is a playable Cryo character in Genshin Impact.Resurrected as a zombie by the adepti, she has ended up in Baizhus care and now works at Bubu Pharmacy in Liyue Harbor.</string>
+    <string name="desc_xiao">Xiao (Chinese: 魈 Xiāo) is a playable Anemo character in Genshin Impact.He is an adeptus, under the name Alatus, and the sole surviving member of the five foremost Yakshas dispatched by Morax to subdue the demonic spirits that plagued Liyue. He currently resides at Wangshu Inn and mostly restrains himself from large crowds and social interactions.</string>
+    //profile
+    <string name="abid">Abid Garda Maulana</string>
+    <string name="desc_abid">NIM : 2110031802090  E-Mail : abidrgt17@gmail.com</string>
+</resources>
+
